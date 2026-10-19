@@ -3,3 +3,6 @@
 __pycache__/
 *.pyc
 logs/
+data/
+.pytest_cache/
+.vscode/
